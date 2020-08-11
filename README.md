@@ -1,5 +1,5 @@
 # Walmart_Sales_Forecasting
-Analyzed large dataset of Walmart sales (https://www.kaggle.com/c/walmart- recruiting-store-sales-forecasting/data) to predict Walmart’s Weekly Sales for a specific store and department combination. Performed feature engineering and used machine learning algorithms for accurate model predictions (KNN, Deep neural networks, Linear Regression, Random Forest Regressor and XGB Regressor has implemented Neural Networks in Python with Keras.
+Analyzed large dataset of Walmart sales (https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting/data) to predict Walmart’s Weekly Sales for a specific store and department combination. Performed feature engineering and used machine learning algorithms for accurate model predictions (KNN, Deep neural networks, Linear Regression, Random Forest Regressor and XGB Regressor has implemented Neural Networks in Python with Keras.
 
 provided with historical sales data for 45 Walmart stores located in different regions. Each store contains a number of departments, and you are tasked with predicting the department-wide sales for each store.
 
